@@ -9,6 +9,7 @@
 - [ ] Implement kernel interface
 - [ ] Implement error handling and data consistency checks
 - [ ] Set up the Makefile targets (soupfs, shell, all, tests, install)
+    - [ ] Add tests
 
 ## Testing
 
