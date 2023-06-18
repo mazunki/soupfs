@@ -1,0 +1,13 @@
+
+# Vim specific junk
+tags
+.*.swp
+*~
+
+# markdown outputs
+*.pdf
+
+# Compile output, executables
+build/
+target/
+
